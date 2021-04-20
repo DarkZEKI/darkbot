@@ -79,7 +79,7 @@ pkg install git
 pkg install wget
 git clone https://github.com/DarkZEKI/DarkZEBot 
 cd DarkZEBot
-bash install.sh
+
 sleep 2
 echo ""
 echo "$verde"
